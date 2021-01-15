@@ -1,2 +1,3 @@
 # algorithms
-algorithm study
+
+* I study algorithm in this repository
